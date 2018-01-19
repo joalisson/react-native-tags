@@ -14,6 +14,7 @@
   "author": "Peter Pistorius <peter.pistorius@gmail.com> (http://github.com/peterp/)",
   "license": "MIT",
   "dependencies": {
+    "prop-types": "^15.6.0",
     "react": "^15.4.1"
   },
   "devDependencies": {
